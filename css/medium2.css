@@ -1,0 +1,16 @@
+
+.hero, .top-news, .scores, .weather, .recent-news {
+  order: 10;
+}
+.hero {
+  order: 0;
+}
+.top-news {
+  width: 50%;
+  order: 3;
+}
+
+.weather {
+  width: 50%;
+  order: 4;
+}
